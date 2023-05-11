@@ -21,6 +21,7 @@ Les cartes DYBoard sont des solutions modulaires pour les personnes qui cherchen
 ## Spécifications
 
 * Les cartes "FlexiFlex" sont ...
+* R3 et R10 permettent d'ajuster la plage de fonctionnement des capteurs, à modifier en fonction des besoins. 
 
 ...
 
